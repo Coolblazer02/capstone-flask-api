@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan Perez",
+      "correo": "juan@email.com",
+      "rol": "cliente"
+    }
+  ],
+  "productos": [
+    {
+      "id": 101,
+      "nombre": "Laptop",
+      "precio": 1200.00,
+      "stock": 10,
+      "categoria": "Tecnologia"
+    }
+  ]
+}
